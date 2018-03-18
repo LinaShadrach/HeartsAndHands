@@ -25,6 +25,8 @@
   * Mission Statement Section
   * Contact Information Section
 
+![alt-text](https://github.com/LinaShadrach/HeartsAndHands/blob/master/splash-img.png)
+
 #### Menu Page
 
 * User should see from top to bottom:
